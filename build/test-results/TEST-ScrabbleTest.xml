@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ScrabbleTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2016-04-19T16:35:39" hostname="Jacobs-MacBook-Pro.local" time="0.004">
+  <properties/>
+  <testcase name="calculateScore_returnsScoreFor5pointers" classname="ScrabbleTest" time="0.002"/>
+  <testcase name="calculateScore_returnsScoreForSingleLetter_1" classname="ScrabbleTest" time="0.001"/>
+  <testcase name="calculateScore_returnsScoreFor10pointers" classname="ScrabbleTest" time="0.0"/>
+  <testcase name="calculateScore_returnsScoreFor2pointers" classname="ScrabbleTest" time="0.0"/>
+  <testcase name="calculateScore_returnsScoreFor4pointers" classname="ScrabbleTest" time="0.0"/>
+  <testcase name="calculateScore_returnsScoreFor1pointers" classname="ScrabbleTest" time="0.0"/>
+  <testcase name="calculateScore_returnsScoreFor8pointers" classname="ScrabbleTest" time="0.0"/>
+  <testcase name="calculateScore_returnsScoreFor3pointers" classname="ScrabbleTest" time="0.0"/>
+  <testcase name="calculateScore_returnsScoreForAll" classname="ScrabbleTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
